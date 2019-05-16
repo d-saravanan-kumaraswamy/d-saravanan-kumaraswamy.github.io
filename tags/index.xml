@@ -6,9 +6,28 @@
     <description>Recent content in Tags on Garden of Forking Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 16 May 2019 18:40:36 +0800</lastBuildDate>
     
 	<atom:link href="https://dineshsaravanan.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>first</title>
+      <link>https://dineshsaravanan.com/tags/first/</link>
+      <pubDate>Thu, 16 May 2019 18:40:36 +0800</pubDate>
+      
+      <guid>https://dineshsaravanan.com/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>getting started</title>
+      <link>https://dineshsaravanan.com/tags/getting-started/</link>
+      <pubDate>Thu, 16 May 2019 18:40:36 +0800</pubDate>
+      
+      <guid>https://dineshsaravanan.com/tags/getting-started/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
